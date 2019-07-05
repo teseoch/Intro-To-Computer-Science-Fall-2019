@@ -14,12 +14,12 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
-25W 4th
+25 West 4th Street
 room C-20
 
-<!-- ### Final exam -->
+### Final exam
 
-<!-- > May 16th (5/16/2019) at 2:00-3:50PM, room 317 -->
+> Thu. Dec, 19, 2019 (12/19/2019) at 4:00-5:50PM, room TBA
 
 
 ### Textbook
@@ -80,43 +80,44 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-<!-- | 01 | 01/29/2019 | Introduction to computers, programs and Java, command line basics | 1 | | -->
-<!-- | 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | | -->
-<!-- | 03 | 02/05/2019 | Mathematical functions, characters, strings, looping| 4-5 |)| -->
-<!-- |    | 02/07/2019 | Hands on | | | -->
-<!-- | 04 | 02/12/2019 | Methods | 6 | | -->
-<!-- | 05 | 02/14/2019 | Single dimensional arrays | 7 | | -->
-<!-- | 06 | 02/19/2019 | Single dimensional arrays | 7 | | -->
-<!-- | 07 | 02/21/2019 | Two dimensional arrays | 8 | | -->
-<!-- |    | 02/26/2019 | Hands on | |  | -->
-<!-- | 08 | 02/28/2019 | Midterm 1 review | 1-8 | | -->
-<!-- | 09 | 03/05/2019 | Midterm 1 |  | | -->
+| 01 | 09/03/2019 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 02 | 09/05/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
+| 03 | 09/10/2019 | Mathematical functions, characters, strings, looping| 4-5 |)|
+|    | 09/12/2019 | Hands on | | |
+| 04 | 09/17/2019 | Methods | 6 | |
+| 05 | 09/19/2019 | Single dimensional arrays | 7 | |
+| 06 | 09/19/2019 | Single dimensional arrays | 7 | |
+| 07 | 09/24/2019 | Two dimensional arrays | 8 | |
+|    | 09/26/2019 | Hands on | |  |
+| 08 | 10/01/2019 | Midterm 1 review | 1-8 | |
+| 09 | 10/03/2019 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-<!-- | 10 | 03/07/2019 | Objects and classes | 9 | | -->
-<!-- |    | 03/12/2019 | Hands on | | | -->
-<!-- |    | 03/14/2019 | Midterm discussion |  | | -->
-<!-- | 10 | 03/26/2019 | Objects and classes | 9 | ) | -->
-<!-- | 12 | 03/28/2019 | Object oriented thinking | 10 | ) | -->
-<!-- | 13 | 04/02/2019 | Object oriented thinking | 10 | | -->
-<!-- | 14 | 04/04/2019 | Midterm 2 review | 1-10 | | -->
-<!-- | 15 | 04/09/2019 | Midterm 2 | | | -->
+| 10 | 10/08/2019 | Objects and classes | 9 | |
+|    | 10/10/2019 | Hands on | | |
+|    | 10/17/2019 | Midterm discussion |  | |
+| 10 | 10/22/2019 | Objects and classes | 9 | ) |
+| 12 | 10/24/2019 | Object oriented thinking | 10 | ) |
+| 13 | 10/29/2019 | Object oriented thinking | 10 | |
+| 14 | 10/31/2019 | Midterm 2 review | 1-10 | |
+| 15 | 11/05/2019 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-<!-- |    | 04/11/2019 | Hands on | || -->
-<!-- | 16 | 04/16/2019 | Inheritance and polymorphism | 11 | | -->
-<!-- | 17 | 04/18/2019 | Inheritance and polymorphism and midterm discussion | 11 | | -->
-<!-- | 18 | 04/23/2019 | Abstract classes and interfaces | 13 | | -->
-<!-- | 19 | 04/25/2019 | Abstract classes and interfaces | 13 | | -->
-<!-- |    | 04/30/2019 | Hands on | || -->
-<!-- | 20 | 05/02/2019 | Exception handling and text I/O | 12 | | -->
-<!-- | 21 | 05/07/2019 | Exception handling and text I/O | 12 | | -->
-<!-- | 22 | 05/09/2019 | Review for the final exam | 1-13, 18 | | -->
+|    | 11/07/2019 | Hands on | ||
+| 16 | 11/12/2019 | Inheritance and polymorphism | 11 | |
+| 17 | 11/14/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 18 | 11/19/2019 | Abstract classes and interfaces | 13 | |
+| 19 | 11/21/2019 | Abstract classes and interfaces | 13 | |
+|    | 11/26/2019 | Hands on | ||
+| 20 | 12/03/2019 | Exception handling and text I/O | 12 | |
+| 21 | 12/05/2019 | Exception handling and text I/O | 12 | |
+|    | 12/10/2019 | Hands on | | |
+| 22 | 12/12/2019 | Review for the final exam | 1-13, 18 | |
 
 
 ## Hands on activities
