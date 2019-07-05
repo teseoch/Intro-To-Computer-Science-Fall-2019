@@ -10,7 +10,7 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524<br>
 <!-- **Tutoring**: -->
-<!-- Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2019/blob/master/material/Spring-2019-tutor.pdf) -->
+<!-- Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/Spring-2019-tutor.pdf) -->
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
@@ -53,24 +53,24 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 ### Misc
 
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-<!-- - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started.pdf) -->
+<!-- - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/material/getting_started.pdf) -->
 <!-- - [Eclipse](https://www.eclipse.org/) -->
-<!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started_processing.pdf) -->
-<!-- - [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2019/blob/master/material/core.jar.zip?raw=true) -->
+<!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/material/getting_started_processing.pdf) -->
+<!-- - [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/core.jar.zip?raw=true) -->
 <!-- - [Processing](https://processing.org/) -->
 
 ### Slides
-<!-- - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf) -->
-<!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) -->
-<!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf) -->
-<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf) -->
-<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) -->
-<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf) -->
-<!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) -->
-<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) -->
-<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture16.pdf) -->
-<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
-<!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture18.pdf) -->
+<!-- - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture1-welcome.pdf) -->
+<!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture2-intro.pdf) -->
+<!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture3-math.pdf) -->
+<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture4-methods.pdf) -->
+<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture5-arrays.pdf) -->
+<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture6-ndarrays.pdf) -->
+<!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture7-objects.pdf) -->
+<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture8-thinkingoo.pdf) -->
+<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture16.pdf) -->
+<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture17.pdf) -->
+<!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture18.pdf) -->
 
 
 ## Schedule and Course Notes:
@@ -82,7 +82,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|----|
 | 01 | 09/03/2019 | Introduction to computers, programs and Java, command line basics | 1 | |
 | 02 | 09/05/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
-| 03 | 09/10/2019 | Mathematical functions, characters, strings, looping| 4-5 |)|
+| 03 | 09/10/2019 | Mathematical functions, characters, strings, looping| 4-5 | |
 |    | 09/12/2019 | Hands on | | |
 | 04 | 09/17/2019 | Methods | 6 | |
 | 05 | 09/19/2019 | Single dimensional arrays | 7 | |
@@ -98,8 +98,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10 | 10/08/2019 | Objects and classes | 9 | |
 |    | 10/10/2019 | Hands on | | |
 |    | 10/17/2019 | Midterm discussion |  | |
-| 10 | 10/22/2019 | Objects and classes | 9 | ) |
-| 12 | 10/24/2019 | Object oriented thinking | 10 | ) |
+| 10 | 10/22/2019 | Objects and classes | 9 |  |
+| 12 | 10/24/2019 | Object oriented thinking | 10 |  |
 | 13 | 10/29/2019 | Object oriented thinking | 10 | |
 | 14 | 10/31/2019 | Midterm 2 review | 1-10 | |
 | 15 | 11/05/2019 | Midterm 2 | | |
