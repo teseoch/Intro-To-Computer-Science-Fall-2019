@@ -10,7 +10,7 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524<br>
 **Tutoring**:
-Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/Spring-2019-tutor.pdf)
+Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/Fall-2019-tutor.pdf)
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
