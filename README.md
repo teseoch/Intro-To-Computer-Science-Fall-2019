@@ -9,8 +9,8 @@ E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Thursdays, 2:15pm-3:15pm 60 5th Ave, 5th Floor, Office 524<br>
-<!-- **Tutoring**: -->
-<!-- Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/Spring-2019-tutor.pdf) -->
+**Tutoring**:
+Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/blob/master/material/Spring-2019-tutor.pdf)
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
@@ -60,7 +60,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 <!-- - [Processing](https://processing.org/) -->
 
 ### Slides
-<!-- - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture1-welcome.pdf) -->
+- [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture1-welcome.pdf)
 <!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture2-intro.pdf) -->
 <!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture3-math.pdf) -->
 <!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture4-methods.pdf) -->
@@ -80,7 +80,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 09/03/2019 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 01 | 09/03/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture1-welcome.pdf) |
 | 02 | 09/05/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
 | 03 | 09/10/2019 | Mathematical functions, characters, strings, looping| 4-5 | |
 |    | 09/12/2019 | Hands on | | |
