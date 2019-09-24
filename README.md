@@ -98,25 +98,25 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 10/10/2019 | Hands on | | |
 |    | 10/17/2019 | Midterm discussion |  | |
 | 10 | 10/22/2019 | Objects and classes | 9 |  |
-| 12 | 10/24/2019 | Object oriented thinking | 10 |  |
-| 13 | 10/29/2019 | Object oriented thinking | 10 | |
-| 14 | 10/31/2019 | Midterm 2 review | 1-10 | |
-| 15 | 11/05/2019 | Midterm 2 | | |
+| 11 | 10/24/2019 | Object oriented thinking | 10 |  |
+| 12 | 10/29/2019 | Object oriented thinking | 10 | |
+| 13 | 10/31/2019 | Midterm 2 review | 1-10 | |
+| 14 | 11/05/2019 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 |    | 11/07/2019 | Hands on | ||
-| 16 | 11/12/2019 | Inheritance and polymorphism | 11 | |
-| 17 | 11/14/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
-| 18 | 11/19/2019 | Abstract classes and interfaces | 13 | |
-| 19 | 11/21/2019 | Abstract classes and interfaces | 13 | |
+| 15 | 11/12/2019 | Inheritance and polymorphism | 11 | |
+| 16 | 11/14/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 17 | 11/19/2019 | Abstract classes and interfaces | 13 | |
+| 18 | 11/21/2019 | Abstract classes and interfaces | 13 | |
 |    | 11/26/2019 | Hands on | ||
-| 20 | 12/03/2019 | Exception handling and text I/O | 12 | |
-| 21 | 12/05/2019 | Exception handling and text I/O | 12 | |
+| 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
+| 20 | 12/05/2019 | Exception handling and text I/O | 12 | |
 |    | 12/10/2019 | Hands on | | |
-| 22 | 12/12/2019 | Review for the final exam | 1-13, 18 | |
+| 21 | 12/12/2019 | Review for the final exam | 1-13, 18 | |
 
 
 ## Hands on activities
