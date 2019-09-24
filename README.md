@@ -64,8 +64,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture3-math.pdf)
 - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture4-methods.pdf)
-<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture5-arrays.pdf) -->
-<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture6-ndarrays.pdf) -->
+- [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture5-arrays.pdf)
+- [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture6-ndarrays.pdf)
 <!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture7-objects.pdf) -->
 <!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture8-thinkingoo.pdf) -->
 <!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture16.pdf) -->
@@ -85,17 +85,16 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 09/10/2019 | Mathematical functions, characters, strings, looping| 4-5 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture3-math.pdf) |
 |    | 09/12/2019 | Hands on | | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/handson1.pdf) |
 | 04 | 09/17/2019 | Methods | 6 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture4-methods.pdf) |
-| 05 | 09/19/2019 | Single dimensional arrays | 7 | |
-| 06 | 09/19/2019 | Single dimensional arrays | 7 | |
-| 07 | 09/24/2019 | Two dimensional arrays | 8 | |
+| 05 | 09/19/2019 | Single dimensional arrays | 7 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture5-arrays.pdf) |
+| 06 | 09/24/2019 | Two dimensional arrays | 8 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture6-ndarrays.pdf)|
 |    | 09/26/2019 | Hands on | |  |
-| 08 | 10/01/2019 | Midterm 1 review | 1-8 | |
-| 09 | 10/03/2019 | Midterm 1 |  | |
+| 07 | 10/01/2019 | Midterm 1 review | 1-8 | |
+| 08 | 10/03/2019 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 10 | 10/08/2019 | Objects and classes | 9 | |
+| 09 | 10/08/2019 | Objects and classes | 9 | |
 |    | 10/10/2019 | Hands on | | |
 |    | 10/17/2019 | Midterm discussion |  | |
 | 10 | 10/22/2019 | Objects and classes | 9 |  |
