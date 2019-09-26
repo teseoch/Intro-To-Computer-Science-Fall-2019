@@ -87,7 +87,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 04 | 09/17/2019 | Methods | 6 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture4-methods.pdf) |
 | 05 | 09/19/2019 | Single dimensional arrays | 7 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture5-arrays.pdf) |
 | 06 | 09/24/2019 | Two dimensional arrays | 8 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/lecture6-ndarrays.pdf)|
-|    | 09/26/2019 | Hands on | |  |
+|    | 09/26/2019 | Hands on | | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/handson2.pdf) |
 | 07 | 10/01/2019 | Midterm 1 review | 1-8 | |
 | 08 | 10/03/2019 | Midterm 1 |  | |
 
@@ -123,7 +123,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Material |
 |----|----|----|
 |  01  | 09/12/2019 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/handson1.pdf) [Tri.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/material/Tri.java) [MCPi.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/material/MCPi.java)|
-
+|  02  | 09/26/2019 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/slides/handson2.pdf) [GOL.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2019/master/material/GOL.java)|
 
 ## Assignments
 
