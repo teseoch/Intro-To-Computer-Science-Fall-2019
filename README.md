@@ -66,7 +66,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture6-ndarrays.pdf)
-<!-- - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) -->
+- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf)
 <!-- - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf) -->
 <!-- - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture16.pdf) -->
 <!-- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture17.pdf) -->
@@ -94,10 +94,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 09 | 10/08/2019 | Objects and classes | 9 | |
-|    | 10/10/2019 | Hands on | | |
-|    | 10/17/2019 | Midterm discussion |  | |
-| 10 | 10/22/2019 | Objects and classes | 9 |  |
+| 09 | 10/08/2019 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) |
+|    | 10/10/2019 | Midterm discussion | | |
+|    | 10/17/2019 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) |
+| 10 | 10/22/2019 | Hands on |  |  |
 | 11 | 10/24/2019 | Object oriented thinking | 10 |  |
 | 12 | 10/29/2019 | Object oriented thinking | 10 | |
 | 13 | 10/31/2019 | Midterm 2 review | 1-10 | |
@@ -132,4 +132,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 01 | 09/05/2019 | 09/10/2019 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment1.pdf) |
 | 02 | 09/12/2019 | 09/17/2019 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment2.pdf) |
 | 03 | 09/19/2019 | 09/24/2019 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment3.pdf) |
+| 04 | 10/10/2019 | 10/15/2019 | [Assignment 4](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment4.pdf) |
+| 05 | 10/17/2019 | 10/22/2019 | [Assignment 5](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment5.pdf) |
 
