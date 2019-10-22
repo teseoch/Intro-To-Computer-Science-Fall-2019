@@ -97,7 +97,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 09 | 10/08/2019 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) |
 |    | 10/10/2019 | Midterm discussion | | |
 |    | 10/17/2019 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) |
-| 10 | 10/22/2019 | Hands on |  |  |
+| 10 | 10/22/2019 | Hands on |  | [GOLObj.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOLObj.zip) |
 | 11 | 10/24/2019 | Object oriented thinking | 10 |  |
 | 12 | 10/29/2019 | Object oriented thinking | 10 | |
 | 13 | 10/31/2019 | Midterm 2 review | 1-10 | |
@@ -124,6 +124,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|
 |  01  | 09/12/2019 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/handson1.pdf) [Tri.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/Tri.java) [MCPi.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/MCPi.java)|
 |  02  | 09/26/2019 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/handson2.pdf) [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOL.java) |
+|  03  | 10/22/2019 | [GOLObj.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOLObj.zip) |
 
 ## Assignments
 
