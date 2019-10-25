@@ -135,4 +135,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 09/19/2019 | 09/24/2019 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment3.pdf) |
 | 04 | 10/10/2019 | 10/15/2019 | [Assignment 4](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment4.pdf) |
 | 05 | 10/17/2019 | 10/22/2019 | [Assignment 5](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment5.pdf) |
-
+| 06 | 10/24/2019 | 10/29/2019 | [Assignment 6](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment6.pdf) |
