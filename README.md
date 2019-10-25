@@ -67,7 +67,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf)
-<!-- - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf) -->
+- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf)
 <!-- - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture16.pdf) -->
 <!-- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture17.pdf) -->
 <!-- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture18.pdf) -->
@@ -98,8 +98,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 10/10/2019 | Midterm discussion | | |
 |    | 10/17/2019 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf) |
 | 10 | 10/22/2019 | Hands on |  | [GOLObj.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOLObj.zip) |
-| 11 | 10/24/2019 | Object oriented thinking | 10 |  |
-| 12 | 10/29/2019 | Object oriented thinking | 10 | |
+| 11 | 10/24/2019 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf)  |
+| 12 | 10/29/2019 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf) |
 | 13 | 10/31/2019 | Midterm 2 review | 1-10 | |
 | 14 | 11/05/2019 | Midterm 2 | | |
 
