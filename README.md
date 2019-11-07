@@ -125,6 +125,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |  01  | 09/12/2019 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/handson1.pdf) [Tri.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/Tri.java) [MCPi.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/MCPi.java)|
 |  02  | 09/26/2019 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/handson2.pdf) [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOL.java) |
 |  03  | 10/22/2019 | [GOLObj.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOLObj.zip) |
+|  04  | 11/04/2019 | [GOLProcessing.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/material/GOLProcessing.zip) |
 
 ## Assignments
 
