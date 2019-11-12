@@ -68,7 +68,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf)
-<!-- - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture16.pdf) -->
+- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf)
 <!-- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture17.pdf) -->
 <!-- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture18.pdf) -->
 
@@ -108,11 +108,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 |    | 11/07/2019 | Hands on | ||
-| 15 | 11/12/2019 | Inheritance and polymorphism | 11 | |
-| 16 | 11/14/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
-| 17 | 11/19/2019 | Abstract classes and interfaces | 13 | |
-| 18 | 11/21/2019 | Abstract classes and interfaces | 13 | |
-|    | 11/26/2019 | Hands on | ||
+| 15 | 11/12/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
+| 16 | 11/14/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
+|    | 11/19/2019 | Hands on | Midterm discussion | |
+| 17 | 11/21/2019 | Abstract classes and interfaces | 13 | |
+| 18 | 11/26/2019 | Abstract classes and interfaces | 13 | |
 | 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
 | 20 | 12/05/2019 | Exception handling and text I/O | 12 | |
 |    | 12/10/2019 | Hands on | | |
