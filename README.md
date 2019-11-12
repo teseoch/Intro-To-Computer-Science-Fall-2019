@@ -110,7 +110,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 11/07/2019 | Hands on | ||
 | 15 | 11/12/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
 | 16 | 11/14/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
-|    | 11/19/2019 | Hands on | Midterm discussion | |
+|    | 11/19/2019 | Midterm discussion | | |
 | 17 | 11/21/2019 | Abstract classes and interfaces | 13 | |
 | 18 | 11/26/2019 | Abstract classes and interfaces | 13 | |
 | 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
