@@ -116,7 +116,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
 | 20 | 12/05/2019 | Exception handling and text I/O | 12 | |
 |    | 12/10/2019 | Hands on | | |
-| 21 | 12/12/2019 | Review for the final exam | 1-13, 18 | |
+| 21 | 12/12/2019 | Review for the final exam | 1-13 | |
 
 
 ## Hands on activities
