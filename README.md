@@ -69,7 +69,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf)
-<!-- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture17.pdf) -->
+- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf)
 <!-- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture18.pdf) -->
 
 
@@ -111,8 +111,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 15 | 11/12/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
 | 16 | 11/14/2019 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf) |
 |    | 11/19/2019 | Midterm discussion | | |
-| 17 | 11/21/2019 | Abstract classes and interfaces | 13 | |
-| 18 | 11/26/2019 | Abstract classes and interfaces | 13 | |
+| 17 | 11/21/2019 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf) |
+| 18 | 11/26/2019 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf) |
 | 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
 | 20 | 12/05/2019 | Exception handling and text I/O | 12 | |
 |    | 12/10/2019 | Hands on | | |
