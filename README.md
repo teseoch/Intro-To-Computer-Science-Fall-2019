@@ -70,7 +70,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf)
-<!-- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture18.pdf) -->
+- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture11-exception-IO.pdf)
 
 
 ## Schedule and Course Notes:
@@ -113,8 +113,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 11/19/2019 | Midterm discussion | | |
 | 17 | 11/21/2019 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf) |
 | 18 | 11/26/2019 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture10-interfaces.pdf) |
-| 19 | 12/03/2019 | Exception handling and text I/O | 12 | |
-| 20 | 12/05/2019 | Exception handling and text I/O | 12 | |
+| 19 | 12/03/2019 | Exception handling and text I/O | 12 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture11-exception-IO.pdf) |
+| 20 | 12/05/2019 | Exception handling and text I/O | 12 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/slides/lecture11-exception-IO.pdf) |
 |    | 12/10/2019 | Hands on | | |
 | 21 | 12/12/2019 | Review for the final exam | 1-13 | |
 
@@ -139,3 +139,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 06 | 10/24/2019 | 10/29/2019 | [Assignment 6](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment6.pdf) |
 | 07 | 11/07/2019 | 11/12/2019 | [Assignment 7](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment7.pdf) |
 | Project | 11/14/2019 | 12/03/2019 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Project.pdf) |
+| 08 | 12/03/2019 | 12/10/2019 | [Assignment 8](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2019/raw/master/assignments/Assignment8.pdf) |
